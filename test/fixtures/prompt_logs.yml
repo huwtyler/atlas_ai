@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  kind: MyString
+  prompt_text: MyText
+  response_text: MyText
+  model_used: MyString
+  user: one
+  training_phase: one
+
+two:
+  kind: MyString
+  prompt_text: MyText
+  response_text: MyText
+  model_used: MyString
+  user: two
+  training_phase: two

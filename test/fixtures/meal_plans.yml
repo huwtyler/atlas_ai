@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  week_number: 1
+  day_of_week: 1
+  meals: 
+  training_phase: one
+
+two:
+  week_number: 1
+  day_of_week: 1
+  meals: 
+  training_phase: two

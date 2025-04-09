@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  completed_at: 2025-04-09 19:38:03
+  plan_content: 
+  workout_plan: one
+  user: one
+
+two:
+  completed_at: 2025-04-09 19:38:03
+  plan_content: 
+  workout_plan: two
+  user: two
